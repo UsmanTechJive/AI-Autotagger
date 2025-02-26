@@ -12,4 +12,3 @@ AI Autotagger is an Eagle plugin designed to automatically tag files using artif
 
 ## How It Works
 AI Autotagger uses machine learning algorithms to analyze file content and context. It extracts key information from files and compares it against trained models to determine the most appropriate tags.
-
