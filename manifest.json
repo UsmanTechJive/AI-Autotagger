@@ -1,0 +1,21 @@
+{
+  "id": "4B56113D-EB3E-4020-A82C-6214FA08CB14",
+  "version": "6.0.0",
+  "platform": "all",
+  "arch": "all",
+  "name": "AI Autotagger",
+  "logo": "logo.png",
+  "keywords": [],
+  "devTools": false,
+  "main": {
+    "multiple": false,
+    "frame": false,
+    "vibrancy": true,
+    "url": "index.html",
+    "width": 1024,
+    "height": 640,
+    "minWidth": 800,
+    "minHeight": 600,
+    "opacity": 1
+  }
+}
